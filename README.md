@@ -1,3 +1,3 @@
 Social Links Profile
 
-![alt text](images/Profile)
+![alt text](images/Profile.png)
