@@ -1,3 +1,3 @@
 Social Links Profile
 
-![alt text](images/achraf.jpeg)
+![alt text](images/Profile)
