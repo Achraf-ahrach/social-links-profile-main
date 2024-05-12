@@ -1,5 +1,6 @@
 # Social Links Profile
-
+# HTML And CSS
 ## Welcome! 👋
 
-![Social Links Profile](./images/Profile.png)
+Design preview for the Social Links Profile coding challenge
+![Design preview for the Social Links Profile coding challenge](./images/Profile.png)
