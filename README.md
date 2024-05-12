@@ -1,4 +1,4 @@
-# Frontend Mentor - Results summary component
+# Social Links Profile
 
 ## Welcome! 👋
 
