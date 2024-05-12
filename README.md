@@ -1,3 +1,5 @@
-Social Links Profile
+# Frontend Mentor - Results summary component
 
-![alt text](images/Profile.png)
+## Welcome! 👋
+
+![Social Links Profile](./images/Profile.png)
